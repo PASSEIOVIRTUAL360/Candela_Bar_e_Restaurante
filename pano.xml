@@ -8,9 +8,9 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-27.2471">
-      <start pan="14.6168" fov="100" projection="4" tilt="-29.4792"/>
+      <start pan="15.73" fov="116.71" projection="4" tilt="-90"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
+      <min pan="0" fov="20" tilt="-90"/>
       <max scaletofit="1" pan="360" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
     </view>
     <userdata title=" " latitude="-23.59418522" description="" nodeid="node1" datetime="21/10/2025 13:22" source="" info="" comment="" author="" copyright="" heading="-27.2471" longitude="-46.68383276" altitude="697.25" customnodeid="" tags="ofii"/>
@@ -21,7 +21,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node2">
@@ -32,7 +33,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-42.0054">
-      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <start pan="1.9082" fov="119.897" projection="4" tilt="-51.0088"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
@@ -46,7 +47,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node17">
@@ -57,7 +59,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="111.901">
-      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <start pan="172.104" fov="130.573" projection="4" tilt="-37.0702"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
@@ -71,7 +73,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node3">
@@ -82,7 +85,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-184.49">
-      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <start pan="173.915" fov="127.919" projection="4" tilt="-29.8955"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" fov="140" fovfisheye="360" tilt="90" fovstereographic="330"/>
@@ -96,7 +99,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node4">
@@ -122,7 +126,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node5">
@@ -148,7 +153,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node6">
@@ -173,7 +179,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node7">
@@ -198,7 +205,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node8">
@@ -224,7 +232,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node9">
@@ -250,7 +259,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node10">
@@ -275,7 +285,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node11">
@@ -300,7 +311,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node12">
@@ -325,7 +337,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node13">
@@ -350,7 +363,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node14">
@@ -375,7 +389,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node15">
@@ -400,7 +415,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <panorama id="node16">
@@ -426,7 +442,8 @@
     </hotspots>
     <media/>
     <transition enabled="1" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40" zoomin="7" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomout="0" type="mesh" blendtime="1" zoomspeed="2" delay="none"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control hideabout="0" sensitivity="8" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" speedwheel="1" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" lockedkeyboard="0" contextfullscreen="1" simulatemass="1"/>
   </panorama>
   <masternode>
